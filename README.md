@@ -60,6 +60,10 @@ Also, this code should be compatible with Python versions 2.7-3.5.
 The test accuracy is around 92%. The predictions made by the model are visible in the notebook.
 ![results1.png](results1.png)     ![results2.png](results2.png)
 
+![results.png](results.png)  
+
+
+
 ### Tutorial
 https://github.com/zhixuhao/unet
 
