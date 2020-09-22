@@ -52,17 +52,15 @@ This tutorial depends on the following libraries:
 
 Also, this code should be compatible with Python versions 2.7-3.5.
 
-### Run main.py
-
-You will see the predicted results of test image in data/membrane/test
-
-### Or follow notebook trainUnet
 
 
 
 ### Results
 
 The test accuracy is around 92%. The predictions made by the model are visible in the notebook.
+![results1.png](results1.png)     ![results2.png](results2.png)
+
+
 
 ## About Keras
 
