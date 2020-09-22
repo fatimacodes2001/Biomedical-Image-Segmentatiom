@@ -32,9 +32,9 @@ makes sure that mask pixels are in \[0, 1\] range.
 
 ### Training
 
-The model is trained for 5 epochs.
+The model is trained for 7 epochs with a batch size of 4.
 
-After 5 epochs, calculated accuracy is about 0.97.
+After 7 epochs, calculated accuracy is about 0.92.
 
 Loss function for the training is basically just a binary crossentropy.
 
